@@ -1,11 +1,7 @@
 <h1 align="center">The Shadow Architect - "Vasudev" 🌑</h1>
 <h3 align="center">Mastering the Dark Arts of Cyber Defense 🕶️⚔️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasudevb25&label=Profile%20views&color=0e75b6&style=flat" alt="vasudevb25" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasudevb25" alt="vasudevb25" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vasudev_b25" target="blank"><img src="https://img.shields.io/twitter/follow/vasudev_b25?logo=twitter&style=for-the-badge" alt="vasudev_b25" /></a> </p>
 
 - 🔭 I’m currently working on **DoS Blocker Firewall**
 
