@@ -1,4 +1,4 @@
-<h1 align="center">The Shadow Architect - "Vasudev" 🌑</h1>
+<h1 align="center">"Vasudev" 🌑</h1>
 <h3 align="center">Mastering the Dark Arts of Cyber Defense 🕶️⚔️</h3>
 
 
