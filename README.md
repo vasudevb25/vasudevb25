@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **DoS Blocker Firewall**
+- 🔭 I’m cybersecurity student
 
 - 🌱 I’m currently learning **Blockchain,Solidity,Rust,MERN,etc**
 
