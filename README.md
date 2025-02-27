@@ -1,5 +1,8 @@
-# 💫 About Me:
-Cybersecurity enthusiast and Blockchain developer with a strong foundation in ethical hacking, blockchain, and digital security.<br><br>Currently pursuing a BTech at Amrita School of Engineering, I am an active member of the ACM Student Chapter, contributing to research and development in cybersecurity. <br><br>Passionate about securing digital ecosystems, I specialize in vulnerability assessment, network security, and cryptography. <br>Constantly exploring new technologies, I aim to build secure and scalable solutions that enhance online safety and efficiency.
+<img src="./croppedimg.png" />
+
+
+# 💫 Hello there!:
+I am Vasudev, a Cybersecurity enthusiast and Blockchain developer with a strong foundation in ethical hacking, blockchain, and digital security.<br><br>Currently pursuing a BTech at Amrita School of Engineering, I am an active member of the ACM Student Chapter, contributing to research and development in cybersecurity. <br><br>Passionate about securing digital ecosystems, I specialize in vulnerability assessment, network security, and cryptography. <br>Constantly exploring new technologies, I aim to build secure and scalable solutions that enhance online safety and efficiency.
 
 
 
