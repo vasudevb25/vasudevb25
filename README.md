@@ -2,6 +2,14 @@
 Cybersecurity enthusiast and Blockchain developer with a strong foundation in ethical hacking, blockchain, and digital security.<br><br>Currently pursuing a BTech at Amrita School of Engineering, I am an active member of the ACM Student Chapter, contributing to research and development in cybersecurity. <br><br>Passionate about securing digital ecosystems, I specialize in vulnerability assessment, network security, and cryptography. <br>Constantly exploring new technologies, I aim to build secure and scalable solutions that enhance online safety and efficiency.
 
 
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vasudevb25/count.svg?"  />
+</div>
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasudevb25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasudevbinu25@gmail.com) 
 
@@ -15,8 +23,12 @@ Cybersecurity enthusiast and Blockchain developer with a strong foundation in et
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vasudevb25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
+
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)       <img height="270" align="right" border-radius=10px src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZ0NnF5NDB5aWc2M2JyZ2toYmFvZmFyeW50cWgwNnd6NnJkajZ6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYWeVOiMmbg3kzCTq5/giphy.gif"/>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vasudevb25&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
